@@ -1,6 +1,6 @@
 FROM debian:stretch-slim
 
-ENV HUB_VERSION 2.6.0
+ENV HUB_VERSION 2.6.1
 
 WORKDIR /app
 RUN apt-get update \
