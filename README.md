@@ -6,4 +6,6 @@ docker-hub-command
 Docker image for [hub](https://github.com/github/hub)
 
 
-- `2.6`, `latest` [Dockerfile](https://github.com/nekottyo/docker-hub-command/blob/master/2.6/Dockerfile)
+- `2.8`, `latest` [Dockerfile](./2.8/Dockerfile)
+- `2.7`, [Dockerfile](./2.8/Dockerfile)
+- `2.6` [Dockerfile](./2.6/Dockerfile)
