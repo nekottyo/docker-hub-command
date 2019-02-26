@@ -6,6 +6,8 @@ docker-hub-command
 Docker image for [hub](https://github.com/github/hub)
 
 
-- `2.8`, `latest` [Dockerfile](./2.8/Dockerfile)
-- `2.7`, [Dockerfile](./2.8/Dockerfile)
+- `2.10`, `latest` [Dockerfile](./2.10/Dockerfile)
+- `2.9` [Dockerfile](./2.9/Dockerfile)
+- `2.8` [Dockerfile](./2.8/Dockerfile)
+- `2.7` [Dockerfile](./2.8/Dockerfile)
 - `2.6` [Dockerfile](./2.6/Dockerfile)
